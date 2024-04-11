@@ -10,11 +10,7 @@
   <p>Don't forget to enable the addon after installing it!
 <b><p><a href="https://github.com/Maro-3D/ShapeKeySwapper/archive/refs/heads/main.zip">-> Download <-</a></b> 
 
- 
-https://github.com/Maro-3D/ShapeKeySwapper/assets/140236512/cd3d2f0e-ec81-4b0d-b294-804ca68fce2f
+https://github.com/Maro-3D/SnapOrigin/assets/140236512/f974e87c-3553-46ea-a735-140ed761d4c3
+
 </div>
-
-
-
-
 
