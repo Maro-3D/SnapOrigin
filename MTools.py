@@ -11,6 +11,9 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+import bpy
+from bpy.types import Operator
+
 bl_info = {
     "name": "SnapOrigin",
     "description": "Snaps the origin of a object to the selected vertex.",
@@ -24,8 +27,6 @@ bl_info = {
     "category": "Mesh"
 }
 
-import bpy
-from bpy.types import Operator
 
 def OriginToSelected(context):
     try:
