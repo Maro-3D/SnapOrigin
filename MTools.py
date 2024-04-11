@@ -12,12 +12,12 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 bl_info = {
-    "name": "Test",
-    "description": "Test",
+    "name": "SnapOrigin",
+    "description": "Snaps the origin of a object to the selected vertex.",
     "author": "Marek Hanzelka",
     "version": (1, 0, 0),
     "blender": (4, 0, 0),
-    "location": "Test",
+    "location": "",
     "warning": "", # used for warning icon and text in addons panel
     "wiki_url": "",
     "tracker_url": "",
